@@ -19,7 +19,7 @@
 --->
 
 [twitter]: https://twitter.com/ziyodev
-[youtube]: http://youtube.com/@ziyodullo_blog
+[youtube]: http://youtube.com/@ziyodullodev
 [website]: https://ziyodev.uz/
 [instagram]: https://www.instagram.com/ziyo.dev/
 [Linkedin]: https://www.linkedin.com/in/ziyodullo
